@@ -1,0 +1,7 @@
+Camera products to matching listing created with c++11.
+
+To run clone directory and compile final.cpp;
+eg: g++ -std=c++11 final.cpp
+run: ./a.out
+
+Results should will be created in a results.txt file.
